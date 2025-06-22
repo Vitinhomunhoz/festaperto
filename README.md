@@ -49,3 +49,8 @@ O app inclui 6 eventos simulados em São Paulo:
 - Jazz Night
 
 Todos os dados são simulados e funcionam sem backend!
+![festaperto1](https://github.com/user-attachments/assets/767d400a-decd-43e0-bb41-9b9693e2a154)
+![festaperto5](https://github.com/user-attachments/assets/ecbf3016-28ca-4d67-9406-acabe252f2b8)
+![festaperto4](https://github.com/user-attachments/assets/4b5b7344-da86-4810-b490-a625d433208d)
+![festaperto3](https://github.com/user-attachments/assets/baecd517-9c90-4e3e-81d8-43d497ec5be8)
+![festaperto2](https://github.com/user-attachments/assets/dd1914ab-10e4-48d0-898e-dc79ff343b41)
